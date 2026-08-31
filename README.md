@@ -67,6 +67,8 @@ Allure Labs offers three starting points:
 - **$1,250 Automation Repair:** diagnose and repair one existing workflow after
   confirming that the exact tools can be tested safely.
 
+[See the full package limits and start by email without a GitHub account](https://offers.allurelabs.ai/workflow-automation/).
+
 [Open a public, structured implementation request](https://github.com/Allura-Gensin/small-workflow-automation-demo/issues/new?template=implementation-request.yml&title=%5Bpublic-workflow-demo%5D%20Implementation%20request).
 Do not include passwords, access keys, customer records, personal information,
 or private business details. A request starts a scope conversation; it is not
