@@ -1,0 +1,3 @@
+submission_id,received_date,contact_ref,topic,preferred_reply_day,queue_owner,status
+EXAMPLE-001,2026-08-25,EXAMPLE-A,Product question,Tuesday,Example owner,OWNER_REVIEW_REQUIRED
+EXAMPLE-002,2026-08-26,EXAMPLE-B,Setup question,Wednesday,Example owner,OWNER_REVIEW_REQUIRED

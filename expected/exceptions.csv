@@ -1,0 +1,3 @@
+submission_id,reason,detail
+EXAMPLE-001,duplicate_submission,no_second_queue_item_created
+EXAMPLE-003,missing_required_field,topic

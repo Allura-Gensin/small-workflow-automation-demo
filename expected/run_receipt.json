@@ -1,0 +1,17 @@
+{
+  "counts": {
+    "exceptions": 2,
+    "ready_for_owner_review": 2
+  },
+  "external_calls": 0,
+  "files": {
+    "exceptions_sha256": "547ab3ece6c77cd654fe03c797a815c8f67213f890d4830fc6707d2e51cd189f",
+    "input_sha256": "1d139f5a4518c9950a081cd1b51cc9789c936acffba3fd8a2dfbdef2256efc89",
+    "queue_sha256": "c991a3acdacc3c09dafb4b6d19bc2a8992519755c520b51e7806713bb3ec9188",
+    "rules_sha256": "64eaf13e56adf2366c4e29a0cbb80550ac2eaf6a3b096f0d05ddd0b2f2e53f00"
+  },
+  "live_activation": false,
+  "messages_sent": 0,
+  "sample_data": "made_up_only",
+  "workflow": "inquiry_to_owner_queue"
+}

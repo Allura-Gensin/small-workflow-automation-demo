@@ -1,0 +1,18 @@
+{
+  "allowed_fields": [
+    "submission_id",
+    "received_date",
+    "contact_ref",
+    "topic",
+    "preferred_reply_day"
+  ],
+  "queue_owner": "Example owner",
+  "ready_status": "OWNER_REVIEW_REQUIRED",
+  "required_fields": [
+    "submission_id",
+    "received_date",
+    "contact_ref",
+    "topic",
+    "preferred_reply_day"
+  ]
+}

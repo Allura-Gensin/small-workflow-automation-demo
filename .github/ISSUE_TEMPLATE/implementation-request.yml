@@ -1,0 +1,57 @@
+name: Small workflow implementation request
+description: Start a public, nonbinding scope conversation using no private information.
+title: "[public-workflow-demo] Implementation request"
+labels:
+  - automation-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This public form starts a scope conversation. It is not an order, contract, reservation, payment, or authorization to access a system. Do not include passwords, access keys, customer records, personal information, or private business details.
+  - type: dropdown
+    id: starting_point
+    attributes:
+      label: Starting point
+      description: Choose the closest public price and scope.
+      options:
+        - $125 workflow plan
+        - $500 small automation build
+        - $1,250 automation repair
+        - Not sure yet
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Workflow summary
+      description: In general terms, what starts the workflow and what should happen next?
+      placeholder: A new made-up spreadsheet row should create an item for an owner to review.
+    validations:
+      required: true
+  - type: textarea
+    id: tools
+    attributes:
+      label: Buyer-owned tools
+      description: Name the tools only. Do not include credentials, account identifiers, links to private systems, or customer data.
+      placeholder: Spreadsheet and task board
+    validations:
+      required: true
+  - type: textarea
+    id: never_do
+    attributes:
+      label: What must the workflow never do?
+      description: State the important limits in general terms.
+      placeholder: It must never send a customer message or process payment information.
+    validations:
+      required: true
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Public-request acknowledgements
+      options:
+        - label: I did not include passwords, keys, customer records, personal information, or private business details.
+          required: true
+        - label: I understand that this request is not an order, contract, reservation, payment, or access authorization.
+          required: true
+        - label: I can provide made-up test information before any work begins.
+          required: true

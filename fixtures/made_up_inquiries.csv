@@ -1,0 +1,5 @@
+submission_id,received_date,contact_ref,topic,preferred_reply_day,unexpected_notes
+EXAMPLE-001,2026-08-25,EXAMPLE-A,Product question,Tuesday,DO-NOT-COPY
+EXAMPLE-002,2026-08-26,EXAMPLE-B,Setup question,Wednesday,DO-NOT-COPY
+EXAMPLE-001,2026-08-25,EXAMPLE-A,Product question,Tuesday,DO-NOT-COPY
+EXAMPLE-003,2026-08-27,EXAMPLE-C,,Thursday,DO-NOT-COPY
